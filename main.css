@@ -1,0 +1,87 @@
+
+#menu
+{
+ width: 1500px;
+ border: 1px solid #000;
+ height: 80px;
+ background-color: #ffffff;
+ font-family: Helvetica, sans-serif;
+ font-size: 13px;
+ font-weight: bold;
+ border-radius: 10px;
+ -moz-border-radius: 10px;
+ -webkit-border-radius: 10px;
+}
+#menu ul
+{
+  margin-top:  0px;
+}
+#menu ul li
+{
+  list-style-type: none;
+  display: inline;
+  margin-left: 50px;
+}
+#menu ul li a:link 
+{
+   color: #000000;
+   text-decoration: none;
+   text-transform: uppercase;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-left: 50px;
+   padding-right: 50px;
+}
+#menu ul li a:visited
+{
+   color: #000000;
+   text-decoration: none;
+   text-transform: uppercase;
+}
+#menu ul li a:hover
+{
+   color: #FFF;
+   background-color: #81B101;
+   -webkit-box-shadow: 0px 4px 5px rgba(50, 50, 50, 0.93);
+   -moz-box-shadow:    0px 4px 5px rgba(50, 50, 50, 0.93);
+   box-shadow:         0px 4px 5px rgba(50, 50, 50, 0.93);
+}
+
+#thong_tin
+{
+ width: 1500px;
+ border: 1px solid #000;
+ height: 22px;
+ background-color: #1ec370;
+ text-transform: uppercase;
+ font-family: Helvetica, sans-serif;
+ font-size: 12px;
+}
+#thong_tin ul
+{
+  margin-top:  7px;
+}
+#thong_tin li
+{
+   list-style-type: none;
+   display: inline;
+   margin-left: 150px;
+ }
+
+ #tt 
+ {
+   text-align: center;
+ }
+
+ #dich_vu
+ {
+   width: 1500px;
+   border: 1px solid #000;
+   height: 150px;
+   background-color: #ffffff;
+   font-family: Helvetica, sans-serif;
+   font-size: 8px;
+   border-radius: 10px;
+   -moz-border-radius: 10px;
+   -webkit-border-radius: 10px;
+ }
