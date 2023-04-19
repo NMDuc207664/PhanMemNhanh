@@ -48,9 +48,9 @@ body {
 
 .input {
     border-width: 1px;
-    border-color: #bbbbbb;
-    border: 1px hidden #bbbbbb;
-    border-style: hidden;
+    border-color: #8e8e8e;
+    border: 1px solid #8e8e8e;
+    border-style: solid;
     height: 30px;
     border-radius: 4px;
     padding: 0 16px;
